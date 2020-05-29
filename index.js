@@ -56,12 +56,10 @@ var empty=[]
 }
 
 function iLoveTheBeatles(num){
-  var empty=[]
-  let num = 0;
-  
- function incrementVariable() {
+  var empty=[];
+  function incrementVariable() {
     num = num + 1;
-    return i;
+    return num;
   }
  do { 
    empty.push("I love the Beatles!")
