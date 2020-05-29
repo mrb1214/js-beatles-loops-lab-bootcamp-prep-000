@@ -55,3 +55,16 @@ var empty=[]
  return empty
 }
 
+function iLoveTheBeatles(num){
+  var empty=[]
+  let num = 0;
+  
+ function incrementVariable() {
+    num = num + 1;
+    return i;
+  }
+ do { 
+   empty.push("I love the Beatles!")
+  } while(incrementVariable(num)<15);
+ return empty
+}
