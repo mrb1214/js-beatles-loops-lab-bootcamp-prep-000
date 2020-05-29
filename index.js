@@ -37,7 +37,7 @@ excitedFacts.push(`${facts[i]}!!!`);
    return excitedFacts
 }
 
-/*function doWhileLoop(num){
+function doWhileLoop(num){
   do { console.log("I run once regardless.")}
   while (incrementVariable()<= num);
 }
@@ -53,4 +53,3 @@ function iLoveTheBeatles(num){
  while(incrementVariable()<15);
  return empty
 }
-*/
