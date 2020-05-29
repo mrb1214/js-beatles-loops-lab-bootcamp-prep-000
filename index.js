@@ -30,7 +30,7 @@ var facts= [
 function johnLennonFacts(facts){
  let i=0;
  var excitedFacts=[];
- while (i<6) {
+ while (i<facts.length) {
 excitedFacts.push(`${facts[i]}!!!`);
   i+=1
   }
