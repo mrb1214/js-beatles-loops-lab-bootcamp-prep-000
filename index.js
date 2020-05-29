@@ -63,6 +63,6 @@ function iLoveTheBeatles(num){
   }
  do { 
    empty.push("I love the Beatles!")
-  } while(incrementVariable()<15);
+  } while(incrementVariable(num)<15);
  return empty
 }
