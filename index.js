@@ -47,8 +47,9 @@ let i = 0;
   i = i + 1;
   return i;
 }
-var empty=[]
+
 function iLoveTheBeatles(num){
+var empty=[]
  do { empty.push("I love the Beatles!")}
  while(incrementVariable()<15);
  return empty
